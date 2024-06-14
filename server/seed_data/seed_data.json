@@ -1,0 +1,36 @@
+{
+    "message":[
+    {
+        "when": "yesterday",
+        "user": "That one guy",
+        "room": "Big Room",
+        "body": "What in the heck is going on here?"
+    },
+    {
+        "when": "tomorrow",
+        "user": "That other guy",
+        "room": "Big Room",
+        "body": "What in the heck is going on here, really?"
+    }
+    ],
+    "user":[
+    {
+        "firstName": "Scottie",
+        "lastName": "Pippen",
+        "email": "prettygood@notbad.com",
+        "password": "ilikeme"
+
+    }
+    ],
+    "room":[
+        {
+            "name": "Big Room",
+            "description": "A large room where everyone can be",
+            "addedUsers": ["What's a user name or id that we use?"]
+            
+    
+        }
+        ]
+
+
+}
